@@ -1,3 +1,5 @@
+```mermaid
+
 graph TD;
     VCC(5V) --> HC-SR04;
     GND --> HC-SR04;
